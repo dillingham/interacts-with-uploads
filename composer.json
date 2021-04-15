@@ -1,0 +1,26 @@
+{
+    "name": "dillingham/interacts-with-uploads",
+    "description": "Adds upload to request object",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Dillingham",
+            "email": "brian@dillingham.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dillingham\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Dillingham\\InteractsWithUploads\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.17",
+        "phpunit/phpunit": "^9.5"
+    }
+}

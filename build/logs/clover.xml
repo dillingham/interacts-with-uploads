@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1618518575">
+  <project timestamp="1618518575">
+    <file name="/Users/brian/Sites/brandzr/packages/interacts-with-uploads/src/InteractsWithUploads.php">
+      <class name="Dillingham\InteractsWithUploads" namespace="global">
+        <metrics complexity="9" methods="3" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="27" coveredstatements="21" elements="30" coveredelements="22"/>
+      </class>
+      <line num="18" type="method" name="upload" visibility="public" complexity="4" crap="4.05" count="2"/>
+      <line num="20" type="stmt" count="2"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="1"/>
+      <line num="23" type="stmt" count="1"/>
+      <line num="24" type="stmt" count="1"/>
+      <line num="27" type="stmt" count="2"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="2"/>
+      <line num="33" type="stmt" count="2"/>
+      <line num="34" type="stmt" count="2"/>
+      <line num="35" type="stmt" count="2"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="2"/>
+      <line num="42" type="stmt" count="2"/>
+      <line num="54" type="method" name="updateUpload" visibility="public" complexity="4" crap="5.40" count="1"/>
+      <line num="56" type="stmt" count="1"/>
+      <line num="57" type="stmt" count="0"/>
+      <line num="60" type="stmt" count="1"/>
+      <line num="61" type="stmt" count="0"/>
+      <line num="64" type="stmt" count="1"/>
+      <line num="65" type="stmt" count="0"/>
+      <line num="67" type="stmt" count="0"/>
+      <line num="70" type="stmt" count="1"/>
+      <line num="72" type="stmt" count="1"/>
+      <line num="81" type="method" name="addValidated" visibility="public" complexity="1" crap="1" count="2"/>
+      <line num="83" type="stmt" count="2"/>
+      <line num="85" type="stmt" count="2"/>
+      <line num="87" type="stmt" count="2"/>
+      <line num="88" type="stmt" count="2"/>
+      <metrics loc="89" ncloc="66" classes="1" methods="3" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="27" coveredstatements="21" elements="30" coveredelements="22"/>
+    </file>
+    <metrics files="1" loc="89" ncloc="66" classes="1" methods="3" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="27" coveredstatements="21" elements="30" coveredelements="22"/>
+  </project>
+</coverage>

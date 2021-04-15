@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="3" assertions="8" errors="0" warnings="0" failures="0" skipped="0" time="0.280189">
+    <testsuite name="Interacts With Uploads Test Suite" tests="3" assertions="8" errors="0" warnings="0" failures="0" skipped="0" time="0.280189">
+      <testsuite name="Dillingham\InteractsWithUploads\Tests\InteractsWithUploadsTest" file="/Users/brian/Sites/brandzr/packages/interacts-with-uploads/tests/InteractsWithUploadsTest.php" tests="3" assertions="8" errors="0" warnings="0" failures="0" skipped="0" time="0.280189">
+        <testcase name="test_updating_file_via_request" class="Dillingham\InteractsWithUploads\Tests\InteractsWithUploadsTest" classname="Dillingham.InteractsWithUploads.Tests.InteractsWithUploadsTest" file="/Users/brian/Sites/brandzr/packages/interacts-with-uploads/tests/InteractsWithUploadsTest.php" line="48" assertions="4" time="0.241809"/>
+        <testcase name="test_creating_file_via_request" class="Dillingham\InteractsWithUploads\Tests\InteractsWithUploadsTest" classname="Dillingham.InteractsWithUploads.Tests.InteractsWithUploadsTest" file="/Users/brian/Sites/brandzr/packages/interacts-with-uploads/tests/InteractsWithUploadsTest.php" line="33" assertions="2" time="0.020142"/>
+        <testcase name="test_updating_with_null_keeps_original" class="Dillingham\InteractsWithUploads\Tests\InteractsWithUploadsTest" classname="Dillingham.InteractsWithUploads.Tests.InteractsWithUploadsTest" file="/Users/brian/Sites/brandzr/packages/interacts-with-uploads/tests/InteractsWithUploadsTest.php" line="73" assertions="2" time="0.018239"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
